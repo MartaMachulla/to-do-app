@@ -1,0 +1,1 @@
+Celem pracy jest stworzenie praktycznej aplikacji biznesowej w React z użyciem Bootstrapa. Aplikacja to lista zadań to-do z możliwością dodawania zadań, usuwania ich (oznaczania jako wykonane) oraz zliczania pozostałych zadań.
